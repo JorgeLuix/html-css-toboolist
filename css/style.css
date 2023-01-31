@@ -1,11 +1,10 @@
-
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
     
-    
-    
-
 
 header {
-    height: 43px;
+    height:fit-content;
 }
 
 .logo {
@@ -23,7 +22,8 @@ h1  {
 main {
     background-color:  #c2cfd1 ;
     height: 600px;
-    
+    padding-top: 20px;
+    padding-bottom: 30px;
     
     
 }
@@ -51,12 +51,12 @@ main {
     border-radius: 5px;
     font-weight: 15px;
     color: white;
-    background-color:   #63bfbb ;
-    border-color: #63bfbb;
+    background-color:   #1660c6 ;
+    border-color: #1660c6;
 }
 .section {
     padding: 8px 8px;
-    border-radius: 5px;
+    border-radius: 15px;
     font-weight: 15px;
     background-color: white;
     color:gray;
@@ -65,5 +65,53 @@ main {
 }
 
 .corpo {
-    margin-top: 30px;
+    
+}
+.Editorial {
+    padding: 2px 5px;
+    border-radius: 12px;
+    font-weight: 15px;
+    color: white;
+    background-color: #1660c6 ;
+    border-color: #1660c6;
+}
+.q1 {
+    padding: 2px 5px;
+    border-radius: 12px;
+    font-weight: 15px;
+    color: white;
+    background-color: #5a0460;
+    border-color: #5a0460;
+}
+.recruiting {
+    padding: 2px 5px;
+    border-radius: 12px;
+    font-weight: 15px;
+    color: white;
+    background-color:  #63bfbb ;
+    border-color:#63bfbb;
+}
+.mobile {
+    padding: 2px 5px;
+    border-radius: 12px;
+    font-weight: 15px;
+    color: white;
+    background-color:   #ec6c64 ;
+    border-color: #ec6c64;
+}
+.web {
+    padding: 2px 5px;
+    border-radius: 12px;
+    font-weight: 15px;
+    color: white;
+    background-color:    #ba6bc2  ;
+    border-color:  #ba6bc2 ;
+}
+.sales {
+    padding: 2px 5px;
+    border-radius: 12px;
+    font-weight: 15px;
+    color: white;
+    background-color:     #667631  ;
+    border-color:  #667631  ;
 }
