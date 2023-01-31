@@ -1,0 +1,28 @@
+*{
+    background-color:  #c2cfd0 ;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.logo {
+    background-color:  #f3fafa ;
+    display: flex;
+
+}
+
+h1  {
+    background: none;
+    margin-top: 10px;
+    font-size: 35px;
+    padding-left: 10px;
+}
+
+.container {
+    border-radius: 2px;
+    width: 60%;
+    height: 60%;
+}
+.main {
+    margin: 20px
+}
