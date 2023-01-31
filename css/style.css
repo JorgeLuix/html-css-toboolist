@@ -46,6 +46,9 @@ main {
     padding-left: 50px;
     
 }
+.today,.upcoming {
+    line-height: 200%;
+}
 .task {
     padding: 8px 8px;
     border-radius: 10px;
