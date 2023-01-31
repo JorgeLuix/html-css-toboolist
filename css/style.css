@@ -21,7 +21,7 @@ h1  {
 }
 main {
     background-color:  #c2cfd1 ;
-    height: 600px;
+    height: 700px;
     padding-top: 20px;
     padding-bottom: 30px;
     
@@ -48,7 +48,7 @@ main {
 }
 .task {
     padding: 8px 8px;
-    border-radius: 5px;
+    border-radius: 10px;
     font-weight: 15px;
     color: white;
     background-color:   #1660c6 ;
@@ -56,7 +56,7 @@ main {
 }
 .section {
     padding: 8px 8px;
-    border-radius: 15px;
+    border-radius: 10px;
     font-weight: 15px;
     background-color: white;
     color:gray;
@@ -64,9 +64,34 @@ main {
     
 }
 
-.corpo {
-    
+.circle {
+
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    border-color: green;
+    border: 1px solid green;
+    color: green;
+    text-align: center;
+    line-height: 20px;
+    display: inline-block; 
 }
+
+.circle2 {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    border-color: red;
+    border: 1px solid red;
+    color: red;
+    text-align: center;
+    line-height: 20px;
+    display: inline-block; 
+}
+
+
 .Editorial {
     padding: 2px 5px;
     border-radius: 12px;
